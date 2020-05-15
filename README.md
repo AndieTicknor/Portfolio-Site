@@ -27,7 +27,7 @@ Click the 'Fork' button in the top right corner of this project page. Then, sele
 
 ### 3. Add your Airtable Stuff To `CONFIG.js`
 * Your Base ID can be found on the Airtable site: "To obtain the ID of your AirTable base, open the AirTable Standard API page and click on the AirTable base that you want to use. This will open the API page of the base. The base ID can be found in the URL of the API page of the base."
-* In Airtable, invite portfoliosite@gmail.com as a read-only collaborator. That account's API key in already located in `CONFIG.js`. Optionally, you can also add your own API key, but it will be more secure to use a read-only API key. 
+* In Airtable, invite PortfolioSiteReader@gmail.com as a read-only collaborator. That account's API key in already located in `CONFIG.js`. Optionally, you can also add your own API key, but it will be more secure to use a read-only API key. 
 
 ### 4. Host Portfolio Site
 If you're using GitHub, I recommend deploying your site with GitHub pages (free hosting!). You can also configure a Github Pages site to use any custom domains that you own. 
